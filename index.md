@@ -150,6 +150,9 @@ Kite API Modules
 </ul>
 <br />
 <p>
+<a href="DatasetAPI/">Dataset API</a>
+</p>
+<p>
 <a href="http://kitesdk.org/docs/current/apidocs/index.html">Kite Javadocs</a>
 </p>
 <p>
@@ -158,7 +161,6 @@ Kite API Modules
 <p>
 <a href="RelatedSystems/">Related Systems</a>
 </p>
-
 <a href="KiteProjectLogistics/">Community Information</a>
 </td>
 </tr>
