@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table of Contents
+title: Table of Contents 
 ---
 
 Kite is an open source set of libraries, references, tutorials, and code samples for building data-oriented systems and applications.
